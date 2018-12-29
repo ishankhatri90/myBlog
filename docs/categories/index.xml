@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ishan Khatri : Data Scientist &amp; Electrical Engineer</title>
+    <link>https://ishankhatri90.github.io/myBlog/categories/</link>
+    <description>Recent content in Categories on Ishan Khatri : Data Scientist &amp; Electrical Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://ishankhatri90.github.io/myBlog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>https://ishankhatri90.github.io/myBlog/categories/development/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishankhatri90.github.io/myBlog/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>https://ishankhatri90.github.io/myBlog/categories/docs/</link>
+      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://ishankhatri90.github.io/myBlog/categories/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://ishankhatri90.github.io/myBlog/categories/english/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://ishankhatri90.github.io/myBlog/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://ishankhatri90.github.io/myBlog/categories/golang/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishankhatri90.github.io/myBlog/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://ishankhatri90.github.io/myBlog/categories/index/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://ishankhatri90.github.io/myBlog/categories/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://ishankhatri90.github.io/myBlog/categories/shortcodes/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://ishankhatri90.github.io/myBlog/categories/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>https://ishankhatri90.github.io/myBlog/categories/syntax-highlighting/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>https://ishankhatri90.github.io/myBlog/categories/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://ishankhatri90.github.io/myBlog/categories/test/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://ishankhatri90.github.io/myBlog/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

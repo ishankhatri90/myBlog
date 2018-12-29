@@ -4,8 +4,8 @@
 
 # baseURL = "http://localhost:1313/"
 baseURL = "https://ishankhatri90.github.io/myBlog/"
-title = "Jane - A super concise theme for Hugo"
-publicDir = "docs"
+title = "Ishan Khatri : Data Scientist & Electrical Engineer"
+publishDir = "docs"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
