@@ -55,7 +55,22 @@ defaultContentLanguage = "en"           # Default language to use
   # name = "external-link"
   # weight = 50
   # url = "https://gohugo.io"
+[[menu.main]]
+  name = "My work"
+  weight = 40
+  identifier = "work"
+  url = "/work/"
+[[menu.main]]
+  name = "My Life"
+  weight = 40
+  identifier = "life"
+  url = "/life/"
 
+[[menu.main]]
+  name = "Contact me"
+  weight = 40
+  identifier = "contact"
+  url = "/contact/"
 
 [params]
   since = "2018"            # Site creation time          # 站点建立时间
