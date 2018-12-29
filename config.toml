@@ -23,7 +23,7 @@ defaultContentLanguage = "en"           # Default language to use
   languageCode = "en"
 
 [author]                  # essential                     # 必需
-  name = "Ishan Khatri"
+  name = "xianmin"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
