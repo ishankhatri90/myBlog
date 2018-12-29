@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ishankhatri90.github.io/myBlog/sitemap.xml
