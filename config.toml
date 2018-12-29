@@ -82,7 +82,7 @@ defaultContentLanguage = "en"           # Default language to use
 
   [params.social]                                         # 社交链接
     a-email = "mailto:ishankhatri90@gmail.com"
-    b-stack-overflow = "http://localhost:1313"
+    b-stack-overflow = "https://stackoverflow.com/users/7228335/ishan-khatri"
     c-twitter = "http://localhost:1313"
     # d-facebook = "http://localhost:1313"
     e-linkedin = "http://localhost:1313"
