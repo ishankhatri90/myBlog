@@ -4,6 +4,7 @@
 
 baseURL = "http://localhost:1313/"
 title = "Jane - A super concise theme for Hugo"
+publicDir = "docs"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
